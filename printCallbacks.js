@@ -18,7 +18,8 @@ var https = require('https');
 }
 
 function printHTML (html) {
-console.log(html);}
+  console.log(html);
+}
 
 var requestOptions = {
   host: 'sytantris.github.io',
